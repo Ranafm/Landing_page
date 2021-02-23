@@ -1,9 +1,11 @@
 # Landing Page Project
 
 ## LANDING_PAGE content:
-- CSS => style.css
--JS => app.js
--index.htm
+- CSS 
+- -style.css
+- JS
+- - app.js
+- index.htm
 
 ### Style.css :
  Contains all the necessary css styles for this project.
