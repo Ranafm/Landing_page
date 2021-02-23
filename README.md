@@ -2,9 +2,9 @@
 
 ## LANDING_PAGE content:
 - CSS 
-- -style.css
+- - style.css
 - JS
-- - app.js
+ - - app.js
 - index.htm
 
 ### Style.css :
